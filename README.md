@@ -38,4 +38,4 @@ Note: These security steps are only required the first time you open the app. Su
 
 For Apple Frames integration please download and configure the [shortcut](https://www.macstories.net/ios/apple-frames-3-3-adds-support-for-iphone-16-and-16-pro-m4-ipad-pro-and-apple-watch-series-10-feat-an-unexpected-technical-detour/)
 
-![](https://zipline.rlvd.eu/u/GJ3zKq.png)
+![image](https://github.com/user-attachments/assets/7a760110-902f-4e05-983b-d202a3329d30)
