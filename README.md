@@ -43,3 +43,27 @@ Note: These security steps are only required the first time you open the app. Su
 For Apple Frames integration please download and configure the [shortcut](https://www.macstories.net/ios/apple-frames-3-3-adds-support-for-iphone-16-and-16-pro-m4-ipad-pro-and-apple-watch-series-10-feat-an-unexpected-technical-detour/)
 
 ![image](https://github.com/user-attachments/assets/7a760110-902f-4e05-983b-d202a3329d30)
+
+## Functions 
+
+Screenshot in 3 modes: 
+ - Region
+ - Window
+ - Full Screen
+
+Video Capture (no Audio) in 3 modes: 
+ - Single window
+ - All windows of the same type
+ - Full Screen
+
+Apple Frames option for full screen screenshots. Uses the Apple Frames API. 
+
+Uploads to configurable Zipline server. Other image hosting tools might also work. 
+
+Screenshot edit mode: 
+ - Arrow
+ - Text
+ - Highlight
+ - Blur
+
+Ability to copy screenshots to clipboard or upload to Zipline and copy the URL. Recordings have also the option to save to disk. 
