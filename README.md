@@ -8,6 +8,10 @@
 
 </p>
 
+# Known Bug
+
+At the moment you need to restart the app if you want to do a recording after taking a screenshot. Otherwise it looks like it is recording but actually it does not create the file.
+
 ## Installation
 
 1. Download the SnapShareUp.dmg file
